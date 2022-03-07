@@ -1,2 +1,6 @@
  *.jar
  /.idea
+ /project
+ /target
+ *.sbt
+
